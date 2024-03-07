@@ -1,0 +1,14 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "git repository for educational purposes",
+  "main": "index.js",
+  "repository":"git@github.com:nelianj/git-extended.git",
+  "author":"Njovu Nelia nelianj@gmail.com",
+  "license": "CC-BY-4.0",
+  "config":{
+     "commitizen":{
+         "path":"cz-conventional-changelog"
+     }
+  }
+}
